@@ -7,4 +7,4 @@
 </h1>
 
 #### About
-This is a fictional website created in the <a src="https://www.udemy.com/course/web-completo/">"Complete Web Development 2021"</a> course on Udemy.
+This is a fictional website created in the [Complete Web Development 2021](https://www.udemy.com/course/web-completo/) course on Udemy.
