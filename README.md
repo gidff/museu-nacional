@@ -1,9 +1,9 @@
 
 <h1 align="center">
-	<img alt="logo museu nacional" width="300px" src="https://ik.imagekit.io/zkrouomv7/Captura_de_Tela_2021-04-25__s_11.55.40_gGc1eC3kV.png">
+	<img alt="logo museu nacional" width="300px" src="img/museu-nacional-readme.png">
 </h1>
 <h1>
-	<img alt="site preview" src="https://ik.imagekit.io/zkrouomv7/museu-nacional_NbIKpp5hU.gif">
+	<img alt="site preview" src="img/museu-nacional.gif">
 </h1>
 
 #### About
